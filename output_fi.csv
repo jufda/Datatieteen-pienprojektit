@@ -1,0 +1,226 @@
+Total References,Internet References,Printed References,Weak References,Pages,Total Word Count,Study Credits,Study Entitlement Days,Grade,Supervisor ID,Keywords,Total Occurrences
+2.0,,,,31,4787.0,241.0,1380,3,20,"[{'testaus': 73.0}, {'automaatio': 33.0}, {'verkkopalvelu': 15.0}]",121
+9.0,1.0,8.0,,53,6651.0,242.0,2058,3,22,"[{'ohjelmistokehitys': 13.0}, {'ohjelmistotuotanto': 9.0}, {'verkko sovellus': 6.0}, {'node.js': 22.0}, {'vue.js': 16.0}]",66
+4.0,4.0,,,28,3291.0,240.0,1392,1,20,"[{'it-tuki': 6.0}, {'service desk': 17.0}, {'ratkaisutietokanta': 21.0}]",44
+48.0,47.0,11.0,5.0,41,10919.0,240.0,1393,3,3,"[{'interaktiivinen tarinankerronta ': 5.0}, {'opetuspeli': 42.0}, {'pelisuunnittelu': 4.0}]",51
+5.0,4.0,1.0,,41,7858.0,241.0,1746,4,8,"[{'python': 71.0}, {'spektroskopia': 12.0}, {'matplotlib': 68.0}, {'infrapuna': 49.0}, {'nir': 35.0}, {'lähi-infrapuna': 24.0}]",259
+86.0,47.0,2.0,6.0,78,9186.0,322.0,1147,2,20,"[{'pelaaminen': 26.0}, {'psyykkiset vaikutukset': 4.0}, {'stressireaktio': 10.0}, {'tutkimus': 113.0}, {'gsr': 88.0}]",241
+69.0,29.0,7.0,1.0,43,8700.0,240.0,2092,4,20,"[{'käytettävyys': 139.0}, {'käytettävyys tutkimus ': 1.0}, {'lääkinnällinen laite': 1.0}, {'haavanhoito': 9.0}]",150
+19.0,8.0,,,58,11473.0,245.0,1748,4,20,"[{'käytettävyys': 41.0}, {'käyttöliittymäsuunnittelu ': 7.0}, {'käytettävyystestaus': 5.0}]",53
+,,,,27,4408.0,240.0,1534,2,20,"[{'suoratoistaminen': 23.0}, {'suoratoistopalvelut': 1.0}, {'teknologia': 8.0}, {'ammatti': 16.0}, {'ilmiö': 5.0}]",53
+35.0,12.0,,,34,7489.0,245.0,1562,4,8,"[{'palvelin': 76.0}, {'klusteri': 98.0}, {'raspberry pi': 96.0}, {'docker swarm': 9.0}]",279
+13.0,13.0,,1.0,21,2922.0,240.0,1135,4,2,"[{'ohjelmistokehys': 8.0}, {'sovelluskehitys ': 5.0}, {'verkkokauppa': 33.0}, {'www': 10.0}, {'javascript': 17.0}]",73
+10.0,9.0,,,20,2073.0,258.0,1578,1,20,"[{'terveysteknologia': 1.0}, {'ihon sähkönjohtavuus': 5.0}, {'moodmetric': 41.0}, {'empatica': 22.0}]",69
+29.0,29.0,2.0,5.0,45,6905.0,275.0,2122,4,1,"[{'uhkien metsästys': 11.0}, {'tietoturva': 76.0}, {'uhka': 19.0}, {'riski': 13.0}, {'kyberturvallisuus': 1.0}]",120
+10.0,10.0,,,39,7012.0,242.0,1372,3,14,"[{'ohjelmointi': 3.0}, {'projekti': 78.0}, {'päiväkirja': 9.0}, {'tietokanta': 32.0}, {'tietoturva': 3.0}]",125
+24.0,22.0,3.0,4.0,25,4114.0,240.0,277,2,3,[],0
+33.0,32.0,1.0,,36,7149.0,243.0,2472,4,5,"[{'automaatio': 20.0}, {'esineiden internet': 4.0}, {'navigointi': 28.0}, {'lautat ': 1.0}, {'visualisointi': 5.0}]",58
+33.0,31.0,1.0,1.0,57,9114.0,245.0,2847,5,14,"[{'intranet': 63.0}, {'python': 43.0}, {'django': 124.0}, {'verkkosuunnittelu': 3.0}, {'verkko-ohjelmointi': 4.0}, {'avoin lähdekoodi': 1.0}]",238
+11.0,11.0,,,31,4268.0,240.0,1561,3,28,"[{'turvaluokitus': 3.0}, {'turvaluokiteltu': 4.0}, {'traficom': 20.0}, {'katakri ': 23.0}, {'windows': 16.0}]",66
+12.0,9.0,3.0,,21,4761.0,240.0,1399,3,9,"[{'tietoturva': 42.0}, {'internet ': 21.0}, {'tietotekniikka': 2.0}, {'tietosuoja': 4.0}]",69
+,,,,40,5813.0,240.0,2672,2,1,"[{'toiminnanohjausjärjestelmä': 48.0}, {'tiedonhaku': 4.0}, {'monitorointi': 1.0}, {'projekti': 40.0}, {'leimauspääte': 14.0}, {'yksinkertaisuus': 1.0}]",108
+29.0,29.0,,4.0,36,7822.0,251.0,1743,4,20,"[{'rajapinta': 25.0}, {'withings': 82.0}, {'api': 189.0}, {'node-red': 53.0}, {'react ': 60.0}, {'laitteistokehitys': 1.0}]",410
+11.0,7.0,,,37,6318.0,240.0,1571,4,1,"[{'tietoturva': 49.0}, {'www-kehitys': 2.0}, {'sql': 9.0}, {'xss': 8.0}, {'rce': 25.0}, {'php': 4.0}, {'html': 4.0}]",101
+29.0,21.0,,2.0,35,7177.0,242.0,1736,4,1,"[{'active directory': 99.0}, {'käyttäjähallinta': 13.0}, {'microsoft azure': 10.0}, {'hybrid active directory': 6.0}]",128
+24.0,24.0,,,45,6252.0,247.0,2113,4,22,"[{'käyttöliittymä': 115.0}, {'mobiilikäyttöliittymä': 14.0}, {'käytettävyys': 15.0}, {'käyttöliittymäsuunnittelu': 7.0}]",151
+8.0,3.0,3.0,,109,31254.0,242.0,1016,5,1,"[{'3gpp': 15.0}, {'epc': 48.0}, {'5g': 168.0}, {'matkaviestinverkot': 1.0}, {'ydinverkko': 33.0}, {'mobiililaajakaista': 30.0}, {'päiväkirjaopinnäytetyö': 5.0}]",300
+33.0,19.0,3.0,,42,5668.0,242.0,1361,3,12,"[{'haittaohjelmat': 12.0}, {'koneoppiminen': 12.0}, {'kyberturvallisuus': 2.0}, {'kyberrikollisuus ': 1.0}, {'neuroverkot ': 5.0}, {'syväoppiminen': 8.0}, {'tekoäly': 126.0}, {'tietoturva ': 104.0}, {'verkkohyökkäykset': 1.0}]",271
+,,,,40,5813.0,245.0,1388,2,1,"[{'toiminnanohjausjärjestelmä': 48.0}, {'tiedonhaku': 4.0}, {'monitorointi': 1.0}, {'projekti': 40.0}, {'leimauspääte': 14.0}, {'yksinkertaisuus': 1.0}]",108
+27.0,21.0,1.0,1.0,37,5840.0,244.0,1372,3,20,"[{'ballistokardiografia': 15.0}, {'bkg-signaali': 23.0}, {'sänkysensori': 106.0}, {'mittaus': 39.0}]",183
+14.0,6.0,,,22,3223.0,242.0,1390,2,13,"[{'lähiverkko': 26.0}, {'dokumentointi': 3.0}, {'tietoverkko': 1.0}]",30
+10.0,2.0,,1.0,36,6147.0,245.0,1388,3,2,"[{'sulautettu linux': 1.0}, {'etäpäivitys ': 4.0}, {'iot': 26.0}]",31
+32.0,28.0,1.0,1.0,39,6906.0,243.0,1725,5,1,"[{'tietoturva': 4.0}, {'security onion': 53.0}, {'ids': 31.0}, {'nids': 12.0}, {'verkon monitorointi': 7.0}]",107
+30.0,30.0,,8.0,43,7136.0,240.0,1359,4,1,"[{'active directory ': 80.0}, {'auditointi': 20.0}, {'it-infrastruktuuri': 23.0}]",123
+31.0,21.0,1.0,1.0,38,7934.0,241.0,1211,5,22,"[{'pilvipalvelut': 11.0}, {'tuotekehitys': 38.0}, {'ohjelmistokehitys': 12.0}, {'pilvinatiivi': 19.0}]",80
+20.0,11.0,,,53,9102.0,245.0,1752,4,2,"[{'käytettävyys': 16.0}, {'kognitiivinen ergonomia': 7.0}, {'käytettävyyden heuristiikat': 1.0}, {'vaatimusmäärittely': 66.0}, {'vaatimus': 147.0}, {'käyttäjälähtöinen suunnittelu': 1.0}]",238
+37.0,28.0,2.0,1.0,45,8219.0,242.0,1418,4,4,"[{'lorawan': 53.0}, {'esineiden internet ': 5.0}, {'esp32': 28.0}, {'kaasun mittaus': 2.0}]",88
+45.0,,45.0,,35,4593.0,248.0,2123,4,2,[],0
+13.0,7.0,,,35,4779.0,256.0,1870,3,13,"[{'5g': 53.0}, {'kentänvoimakkuus': 54.0}, {'mobiiliverkko': 9.0}, {'taajuus': 23.0}, {'vaimennus': 7.0}]",146
+31.0,18.0,1.0,1.0,41,7013.0,240.0,1388,5,13,"[{'autonomiset järjestelmät': 1.0}, {'etäohjaus': 17.0}, {'sound reception system': 6.0}, {'merenkulkuala': 5.0}]",29
+68.0,57.0,4.0,,56,8125.0,241.0,1362,5,20,"[{'sosiaalinen kuntoutus': 1.0}, {'ryhmäkuntoutus': 7.0}, {'käyttäjäkokemus': 1.0}, {'sähköiset palvelut': 1.0}]",10
+12.0,10.0,2.0,1.0,42,9180.0,240.0,1124,4,23,"[{'mongodb': 35.0}, {'java': 36.0}, {'groovy ': 52.0}, {'differentiointi': 4.0}]",127
+21.0,18.0,,1.0,36,6927.0,249.0,1365,3,5,"[{'projekti ': 224.0}, {'projektinhallinta': 12.0}, {'projektityö ': 12.0}, {'dokumentointi': 3.0}, {'ohjelmistot': 1.0}]",252
+19.0,18.0,1.0,1.0,35,6569.0,240.0,1367,4,1,"[{'tietoturva': 29.0}, {'salasananhallinta': 18.0}, {'laps': 95.0}, {'active directory': 47.0}]",189
+39.0,21.0,3.0,,46,6919.0,240.0,1338,4,13,"[{'internet': 129.0}, {'palvelutasosopimus ': 5.0}, {'vikasietoisuus': 3.0}]",137
+28.0,27.0,1.0,1.0,34,6482.0,241.0,1574,3,24,"[{'tietoturva': 21.0}, {'tietomurto': 1.0}, {'tietojenkalastelu': 173.0}, {'internet': 9.0}]",204
+42.0,36.0,,,50,9123.0,249.0,1206,4,23,"[{'käytettävyys': 14.0}, {'saavutettavuus': 26.0}, {'mongodb': 40.0}, {'node.js': 30.0}]",110
+8.0,8.0,,1.0,35,4892.0,240.0,1361,5,2,"[{'iot': 28.0}, {'iiot': 8.0}, {'ohjelmistokehitys': 1.0}, {'elektroniikka': 1.0}, {'mekaniikka': 1.0}, {'tuotanto': 4.0}]",43
+6.0,4.0,,,22,3524.0,240.0,1380,2,23,"[{'tuotekehitys': 7.0}, {'laadunhallinta': 27.0}, {'standardointi': 1.0}]",35
+51.0,51.0,,7.0,35,4903.0,240.0,1390,3,5,"[{'ohjelmistotestaaminen': 15.0}, {'ohjelmistotestaamisen tasot': 1.0}, {'ohjelmistotestauksen automatisointi': 1.0}, {'gitlab': 38.0}, {'jatkuva integraatio': 3.0}, {'jatkuva julkaisu': 1.0}]",59
+28.0,26.0,,5.0,28,5727.0,243.0,1925,3,1,"[{'sdn': 150.0}, {'tietoverkot': 1.0}, {'virtualisointi': 5.0}]",156
+8.0,6.0,1.0,,17,2727.0,241.0,1934,1,20,"[{'active directory ': 11.0}, {'azure ': 6.0}, {'microsoft office': 3.0}, {'outlook': 11.0}, {'sähköposti': 12.0}]",43
+,,,,35,5040.0,243.0,1361,3,1,"[{'hakkerointi': 2.0}, {'opiskelu': 34.0}, {'tietoturva': 60.0}]",96
+6.0,1.0,3.0,,39,5040.0,241.0,1352,3,5,"[{'hakkerointi': 2.0}, {'opiskelu': 34.0}, {'tietoturva': 60.0}]",96
+3.0,2.0,,1.0,46,9898.0,241.0,1569,2,5,"[{'tietojenkäsittely': 3.0}, {'päiväkirja': 12.0}, {'projektinhallinta': 5.0}, {'projekti': 263.0}, {'palvelu ': 76.0}, {'konsultti': 1.0}]",360
+18.0,12.0,1.0,4.0,31,5847.0,281.0,1331,3,1,"[{'gdpr': 24.0}, {'tietoturva': 91.0}, {'yrittäjyys': 1.0}, {'auditointi': 1.0}]",117
+135.0,16.0,,2.0,34,6451.0,240.0,1373,4,2,"[{'rajapinta': 158.0}, {'api': 469.0}, {'esineiden internet': 9.0}, {'iot': 59.0}, {'python': 32.0}]",727
+11.0,10.0,,,44,7250.0,248.0,1559,5,26,"[{'saavutettavuus': 81.0}, {'saavutettavuusdirektiivi': 16.0}, {'terveydenhuolto': 1.0}, {'sähköinen asiointi': 5.0}, {'verkkopalvelu': 20.0}]",123
+,,,,21,2410.0,242.0,1578,2,19,"[{'tietokanta': 3.0}, {'ohjelmointi': 5.0}, {'tiedonsiirto': 1.0}]",9
+50.0,50.0,1.0,,63,13851.0,240.0,1327,3,5,"[{'ohjelmistokehitys': 1.0}, {'ohjelmistosuunnittelu ': 1.0}, {'tietokoneohjelmat': 1.0}]",3
+19.0,18.0,2.0,1.0,40,5818.0,242.0,1749,4,5,"[{'react native ': 31.0}, {'iot': 115.0}, {'mobiilisovellukset ': 2.0}, {'ohjelmointikehys ': 4.0}, {'rajapinta': 12.0}]",164
+87.0,48.0,1.0,2.0,48,9267.0,241.0,1391,5,20,"[{'silmänpohjan nesteinen ikärappeuma': 1.0}, {'long short-term memory': 8.0}, {'valvottu kone oppiminen': 0.0}, {'neuroverkot': 5.0}]",14
+12.0,10.0,,,31,5104.0,240.0,1341,3,2,"[{'moottoriohjain': 14.0}, {'enkooderi': 66.0}, {'askelmoottori': 1.0}]",81
+19.0,15.0,,,28,3942.0,246.0,2669,3,20,"[{'rest': 75.0}, {'ohjelmointirajapinta': 2.0}, {'automatisoitutesti': 1.0}, {'spring boot': 33.0}]",111
+11.0,9.0,1.0,1.0,35,6856.0,240.0,1543,3,2,"[{'verkonvalvonta ': 5.0}, {'monitorointi ': 1.0}, {'zabbix ': 162.0}, {'snmp': 44.0}]",212
+,,,,32,7392.0,244.0,1371,5,2,"[{'sääilmiöt': 1.0}, {'ohjelmointi': 10.0}, {'raspberry pi': 47.0}, {'python': 23.0}, {'javascript': 11.0}]",92
+13.0,5.0,7.0,,37,8889.0,243.0,1369,5,20,"[{'käyttäjäkeskeinen suunnittelu': 6.0}, {'tietojärjestelmä': 142.0}, {'käyttäjätarina': 11.0}, {'arkkitehtuuri': 12.0}, {'käyttökokemus': 6.0}]",177
+12.0,2.0,7.0,,41,7328.0,240.0,1349,4,13,"[{'dokumentointi': 15.0}, {'tietoverkot': 8.0}, {'lähiverkot': 7.0}, {'langattomat lähiverkot': 2.0}]",32
+17.0,13.0,,,31,5671.0,241.0,1941,3,3,"[{'pistepilvi': 50.0}, {'laserkeilaus': 54.0}, {'3d-mallinnus': 4.0}, {'peliteknologia': 2.0}]",110
+14.0,14.0,,,46,7978.0,242.0,1260,4,19,"[{'ssh': 30.0}, {'vps': 2.0}, {'docker': 135.0}, {'linux': 5.0}, {'email': 12.0}, {'versionhallinta': 20.0}]",204
+15.0,13.0,,3.0,32,7684.0,240.0,1372,4,1,"[{'tietoturva': 44.0}, {'capture the flag': 12.0}, {'tietoturvahaaste': 3.0}]",59
+,,,,24,5904.0,251.5,1569,2,26,"[{'dokumentaatio': 80.0}, {'palvelin': 113.0}, {'verkkoympäristö': 7.0}]",200
+12.0,11.0,2.0,4.0,17,2271.0,240.0,1192,4,20,"[{'tekstiviesti': 41.0}, {'push-ilmoitus ': 16.0}]",57
+33.0,33.0,,4.0,29,7235.0,241.0,1384,3,20,"[{'virtuaalinen': 27.0}, {'lisätty': 57.0}, {'todellisuus': 57.0}, {'teknologia ': 11.0}, {'terveydenhuolto ': 6.0}, {'tulevaisuus': 10.0}]",168
+40.0,39.0,1.0,7.0,52,8337.0,272.0,1571,4,18,"[{'vr': 82.0}, {'virtuaalitodellisuus': 23.0}, {'oculus': 21.0}, {'unity': 94.0}, {'c#': 6.0}, {'3d': 25.0}, {'blender ': 18.0}, {'pixyz ': 21.0}, {'cad': 32.0}]",322
+28.0,20.0,,1.0,54,9463.0,241.0,2107,5,1,"[{'ise': 313.0}, {'profilointi': 23.0}, {'pääsynhallinta': 23.0}, {'tietoverkot': 1.0}]",360
+,,,,20,4877.0,240.0,2478,3,11,"[{'wi-fi': 76.0}, {'internet ': 7.0}, {'tukiasema ': 73.0}, {'lämpökartoitus ': 2.0}, {'wlan ': 8.0}, {'päivitys': 20.0}]",186
+26.0,22.0,4.0,2.0,55,7321.0,242.0,1386,2,18,"[{'pelillistäminen': 10.0}, {'verkkokauppa': 8.0}, {'käyttäjäkokemus': 9.0}]",27
+84.0,7.0,77.0,,65,12209.0,240.0,1744,4,3,"[{'käytettävyys': 96.0}, {'käytettävyystestaus': 17.0}, {'käyttäjäkeskeinen suunnittelu': 5.0}, {'ohjelmistokehitys': 4.0}]",122
+3.0,3.0,,,37,4602.0,242.0,2287,2,13,"[{'lämpökartta': 11.0}, {'ilmanpainemittaus ': 2.0}, {'lämpösäteily': 2.0}, {'tuuletus ': 2.0}, {'elektroniikkasuunnittelu ': 2.0}, {'lämpösuunnittelu': 7.0}]",26
+17.0,13.0,4.0,,25,4841.0,240.0,1766,2,3,"[{'virtuaalitodellisuus': 28.0}, {'oppiminen ': 2.0}, {'testaus': 24.0}]",54
+16.0,15.0,1.0,6.0,23,4238.0,240.0,1934,2,3,"[{'laserkeilaus': 7.0}, {'laser skannaus': 5.0}, {'pistepilvi': 33.0}, {'pelinkehitys': 1.0}]",46
+,,,,21,1704.0,247.0,274,3,8,"[{'nas': 23.0}, {'linux': 24.0}, {'ubuntu': 25.0}, {'samba': 24.0}]",96
+30.0,29.0,1.0,,52,7420.0,258.0,1575,3,2,"[{'sovelluskehitys': 4.0}, {'laadunhallinta ': 19.0}, {'oppiminen ': 3.0}, {'react native': 34.0}, {'react navigation': 38.0}]",98
+,,,,125,22973.0,364.0,2129,4,20,"[{'integraatio': 145.0}, {'ihe': 172.0}, {'xds': 1278.0}, {'xds.b': 27.0}, {'xds-i': 298.0}, {'terveydenhuollon integraatio': 4.0}, {'integraatio profiili': 84.0}]",2008
+9.0,8.0,1.0,,34,5684.0,240.0,1750,2,26,"[{'it-tuki': 56.0}, {'servicedesk': 12.0}, {'helpdesk ': 5.0}, {'ammattikorkea koulu': 54.0}, {'byod': 9.0}]",136
+4.0,3.0,1.0,1.0,64,10217.0,250.0,1854,4,1,"[{'pilviteknologia': 9.0}, {'pilvilaskenta': 20.0}, {'pilvipalvelut': 7.0}, {'pilvitallentaminen': 1.0}, {'pilviympäristö': 3.0}, {'iaas': 15.0}, {'saas': 17.0}, {'paas': 16.0}, {'amazon': 165.0}, {'aws': 121.0}, {'microsoft': 97.0}, {'azure': 16.0}]",487
+,,,,39,5427.0,301.0,1562,3,20,"[{'sovellusohjelmat': 1.0}, {'sovellus': 82.0}, {'työsuhde': 34.0}, {'hallinnointi': 10.0}, {'järjestelmä': 53.0}]",180
+18.0,13.0,5.0,3.0,25,3503.0,241.0,1583,2,22,"[{'käytettävyystestaus': 10.0}, {'käytettävyys': 28.0}, {'sovellus': 10.0}, {'heuristinen arviointi': 1.0}]",49
+24.0,20.0,4.0,,32,5095.0,241.0,1666,3,5,"[{'palvelimet': 14.0}, {'mikrokontrollerit': 1.0}, {'tieto': 34.0}, {'tiedonsiirto': 8.0}]",57
+23.0,23.0,,2.0,27,5880.0,241.0,1570,4,20,"[{'rajapinta': 42.0}, {'ohjelmointirajapinta': 2.0}, {'shimmer': 103.0}, {'matlab': 73.0}, {'api': 201.0}]",421
+24.0,17.0,7.0,1.0,31,6168.0,246.0,1752,4,26,"[{'ohjelmakirjasto': 44.0}, {'moduulit': 4.0}, {'verkko-ohjelmointi': 1.0}, {'javascript': 16.0}, {'käytettävyys': 3.0}, {'asiakaspalvelu': 57.0}, {'itsepalvelu': 40.0}]",165
+17.0,17.0,,,30,4502.0,242.0,1385,4,3,"[{'angular': 74.0}, {'yksikkötestaaminen': 1.0}, {'testaaminen': 13.0}]",88
+12.0,12.0,,,39,4410.0,249.0,1801,4,5,"[{'devops': 29.0}, {'ci/cd': 63.0}, {'docker': 145.0}, {'gitlab runner': 16.0}]",253
+33.0,33.0,,2.0,37,6670.0,251.0,1128,5,2,"[{'kotiautomaatio': 58.0}, {'kotiautomaatiojärjestelmä': 30.0}, {'varoitusjärjestelmä': 1.0}, {'pikaviestisovellus': 7.0}, {'iot': 23.0}, {'zigbee': 38.0}]",157
+52.0,45.0,7.0,3.0,43,8875.0,244.0,1239,5,4,"[{'esp32': 75.0}, {'iot': 113.0}, {'esineiden internet': 8.0}, {'blynk': 99.0}, {'ifttt': 56.0}, {'etävalvonta': 1.0}]",352
+14.0,11.0,3.0,,45,6417.0,261.0,1752,5,13,"[{'ldmos': 36.0}, {'vahvistimen lämpötilastabilointi': 1.0}, {'aktiivinen biasointi': 1.0}, {'biasointi': 27.0}, {'eiscat': 32.0}]",97
+12.0,3.0,9.0,,31,3717.0,241.0,1339,2,20,"[{'tutkimus': 20.0}, {'kyselytutkimus': 2.0}, {'opettajat': 10.0}, {'covid-19': 5.0}, {'etäopetus': 18.0}, {'kokemukset': 1.0}]",56
+25.0,9.0,16.0,1.0,29,3542.0,240.0,1690,3,20,"[{'elektromyografia (emg)': 3.0}, {'sensorit': 1.0}, {'elektrodi': 12.0}]",16
+39.0,39.0,,,44,7543.0,254.0,1382,5,22,"[{'lääkevarmennus ': 46.0}, {'keräilylaite ': 47.0}, {'ohjelmistokehitys': 1.0}, {'jsf': 23.0}, {'java ': 75.0}, {'mvc': 13.0}]",205
+5.0,4.0,1.0,,25,2677.0,246.0,1978,1,3,"[{'opetuspeli': 10.0}, {'ehkäisevä päihdetyö': 1.0}, {'pelillistäminen': 12.0}, {'digitalisointi': 4.0}]",27
+16.0,16.0,,2.0,33,4729.0,241.0,2092,5,2,"[{'c++': 24.0}, {'laitteistoriippumaton': 2.0}, {'qt': 77.0}, {'android': 27.0}, {'ios': 16.0}, {'mobiili': 41.0}, {'opengl': 13.0}, {'video': 24.0}]",224
+24.0,24.0,,7.0,31,5569.0,240.0,2306,3,3,"[{'videopelit': 1.0}, {'mobiilipelit': 7.0}, {'peliala': 1.0}]",9
+28.0,23.0,5.0,,39,6652.0,270.0,2487,4,1,"[{'mern': 14.0}, {'mongodb': 24.0}, {'express.js': 10.0}, {'reactjs': 12.0}, {'node.js': 24.0}, {'javascript': 24.0}]",108
+29.0,28.0,1.0,1.0,39,8982.0,242.0,1374,5,1,"[{'tietoturva': 87.0}, {'tietosuoja': 10.0}, {'ohjelmistokehitys ': 1.0}, {'verkkohyökkäykset': 1.0}, {'mobiilisovellukset': 1.0}]",100
+39.0,35.0,4.0,6.0,25,4982.0,240.0,1727,3,20,"[{'virtuaalitodellisuus': 10.0}, {'vr': 193.0}, {'terveydenhuolto': 4.0}, {'terveysteknologia': 1.0}]",208
+16.0,15.0,1.0,1.0,42,5762.0,240.0,1109,3,5,"[{'graphql': 146.0}, {'rest': 115.0}, {'ylihaku': 9.0}, {'alihaku': 13.0}]",283
+10.0,4.0,6.0,1.0,40,8328.0,243.0,2099,4,1,"[{'verkko': 69.0}, {'lähiverkko ': 7.0}, {'tietotekniikka': 1.0}, {'kyberturvallisuus': 6.0}]",83
+41.0,40.0,1.0,,35,,241.0,1572,4,2,[],0
+2.0,1.0,1.0,,48,10319.0,248.0,1690,1,24,"[{'ict-asiantuntija': 8.0}, {'henkilökohtainen kehitys ': 1.0}, {'asiakaspalvelu': 1.0}]",10
+123.0,40.0,83.0,3.0,47,10533.0,266.0,1300,5,3,"[{'koulutuspeli': 44.0}, {'opetuspeli': 4.0}, {'käyttöliittymäsuunnittelu': 4.0}, {'käytettävyys': 19.0}, {'käytettävyystestaus': 2.0}]",73
+69.0,59.0,10.0,4.0,50,12065.0,244.0,1729,4,3,"[{'hyötypeli': 61.0}, {'digitalisaatio': 3.0}, {'optimointi': 32.0}, {'pelikehitys ': 6.0}, {'lokalisointi': 11.0}]",113
+,,,,23,2934.0,253.0,1744,3,20,"[{'etäkäyttö': 31.0}, {'prosessikuvaus': 1.0}, {'varmennekortti': 6.0}]",38
+14.0,12.0,2.0,2.0,29,3911.0,246.0,2102,3,28,"[{'high availability (ha)': 2.0}, {'windows server 2012 r2': 18.0}, {'failover clustering ': 26.0}, {'hyper-v': 44.0}, {'nic teaming': 8.0}, {'hyper-v network virtualization': 3.0}]",101
+35.0,22.0,13.0,1.0,31,6568.0,245.0,194,3,20,"[{'robotiikka': 20.0}, {'sosiaalihuolto ': 11.0}, {'tekoäly ': 22.0}, {'tiedonhaku ': 14.0}, {'vanhustenhuolto': 8.0}]",75
+0.0,,,,38,7129.0,240.0,1921,1,5,"[{'ICT': 48.0}, {'tietotekniikka': 1.0}]",49
+21.0,13.0,8.0,,42,7134.0,240.0,1956,4,20,"[{'asiakkuudenhallinta': 36.0}, {'crm -järjestelmä': 35.0}, {'vaatimusmäärittely': 65.0}, {'swot -analyysi': 13.0}]",149
+26.0,25.0,1.0,,52,,276.0,1857,5,2,[],0
+,,,,48,7347.0,240.0,1207,4,5,"[{'vektori muodot ': 3.0}, {'geojson': 15.0}, {'leaflet': 30.0}, {'react': 35.0}, {'node.js': 25.0}]",108
+30.0,29.0,1.0,1.0,40,5550.0,240.0,1935,3,8,"[{'avoin data': 54.0}, {'datan visualisointi': 16.0}, {'datan hyödyntäminen': 3.0}, {'datan avaaminen': 8.0}]",81
+,,,,44,4575.0,241.0,828,2,26,"[{'ios': 37.0}, {'swift': 22.0}, {'xcode': 38.0}, {'apple': 30.0}, {'core data': 23.0}, {'mvvm': 9.0}, {'ipad': 20.0}]",179
+,,,,26,4723.0,243.0,1756,3,14,"[{'provet cloud': 34.0}, {'pendo ': 44.0}, {'customer success': 3.0}, {'data-analyysi ': 5.0}, {'django': 27.0}]",113
+14.0,7.0,7.0,1.0,24,3015.0,240.0,1556,3,20,"[{'integraatio': 62.0}, {'terveydenhuolto': 2.0}, {'projekti': 60.0}, {'prosessi': 45.0}, {'projektijohtaminen': 5.0}]",174
+17.0,15.0,2.0,2.0,38,5219.0,241.0,1917,3,1,"[{'suoratoisto ': 58.0}, {'musiikki ': 21.0}, {'tiedonsiirto': 2.0}, {'enkoodaus ': 1.0}, {'tekijänoikeudet': 3.0}]",85
+49.0,27.0,22.0,,52,12076.0,256.0,1840,5,13,"[{'igbt ': 323.0}, {'korkea teho ': 1.0}, {'puolijohdetestaus ': 1.0}, {'simulointi': 7.0}, {'mittalaitteet': 1.0}]",333
+1.0,1.0,,,54,11585.0,240.0,1569,3,1,"[{'qa-testaaja': 15.0}, {'projektihallinta': 1.0}, {'ohjelmis': 19.0}]",35
+3.0,3.0,,1.0,41,9902.0,240.0,1940,3,1,"[{'palvelin': 57.0}, {'verkkovalvonta': 1.0}, {'tietoverkko': 2.0}, {'service desk': 3.0}, {'päiväkirja': 11.0}]",74
+11.0,10.0,1.0,,29,5346.0,241.0,1119,4,20,"[{'käytettävyys': 23.0}, {'saavutettavuus': 18.0}, {'käyttöliittymäsuunnittelu': 4.0}]",45
+27.0,26.0,1.0,4.0,31,5055.0,240.0,2267,2,22,"[{'terveysteknologia': 12.0}, {'bioradio': 106.0}, {'rajapinta': 53.0}, {'imotions ': 64.0}, {'matlab': 76.0}]",311
+,,,,25,5245.0,242.0,2121,2,3,"[{'animaatio': 27.0}, {'video editointi': 6.0}, {'markkinointi': 4.0}]",37
+12.0,11.0,1.0,1.0,26,4189.0,241.0,120,3,20,"[{'apache nifi': 13.0}, {'vuopohjainen ohjelmointi ': 5.0}, {'tietojärjestelmä': 14.0}]",32
+,,,,54,10653.0,244.0,1374,3,2,"[{'lamp': 74.0}, {'linux': 69.0}, {'apache': 88.0}, {'php': 121.0}, {'mysql': 76.0}, {'devops': 62.0}, {'docker': 248.0}]",738
+26.0,23.0,3.0,2.0,39,7931.0,240.0,1394,4,1,"[{'havainnointi': 23.0}, {'lokienhallinta': 1.0}, {'tietoturva': 51.0}, {'tietotekniikka': 1.0}]",76
+32.0,29.0,3.0,5.0,29,5202.0,242.0,2123,3,3,"[{'virtuaalitodellisuus': 10.0}, {'unity': 63.0}, {'rakennussuunnittelu ': 10.0}, {'bim': 81.0}]",164
+11.0,3.0,8.0,,32,5052.0,240.0,1940,3,20,"[{'iso 27002 ': 16.0}, {'iso 27799': 27.0}, {'standardi ': 89.0}, {'tietoturva': 106.0}, {'kehittäminen ': 6.0}, {'ohjeistus': 17.0}]",261
+,,,,28,4103.0,244.0,1370,3,22,"[{'anonymisointi': 83.0}, {'pseydonymisointi': 1.0}, {'henkilötieto': 46.0}, {'laadukas data': 5.0}]",135
+14.0,14.0,,3.0,24,5124.0,241.0,1594,3,20,"[{'service desk': 83.0}, {'contact center': 42.0}, {'järjestelmän käyttöönotto': 1.0}]",126
+10.0,10.0,0.0,2.0,26,3712.0,252.0,2022,3,20,"[{'älylääkekaappi': 57.0}, {'häiriönhallinta': 11.0}, {'terveysteknologia': 1.0}]",69
+28.0,23.0,5.0,3.0,41,8009.0,257.0,1581,3,1,"[{'palomuurit': 28.0}, {'tietoturva': 25.0}, {'virtualisointi': 26.0}, {'vikasietoisuus': 6.0}]",85
+10.0,9.0,1.0,1.0,56,8348.0,240.0,1359,5,13,"[{'konenäkö': 53.0}, {'robotiikka': 14.0}, {'ohjelmointi': 26.0}, {'mittaaminen': 9.0}]",102
+15.0,13.0,2.0,4.0,60,9059.0,240.0,1574,4,1,"[{'microsoft system center service manager': 6.0}, {'palvelin': 76.0}, {'hallinnointi': 32.0}, {'web-portaali': 2.0}, {'service desk': 1.0}]",117
+275.0,35.0,240.0,3.0,93,17814.0,330.0,1736,5,1,"[{'tietoturva': 220.0}, {'uhka': 20.0}, {'riski': 119.0}, {'käyttäjän manipulointi': 9.0}]",368
+,,,,23,4068.0,241.0,1203,3,5,"[{'can-väylä': 66.0}, {'can-data': 40.0}, {'testaus': 10.0}, {'ohjelmointi ': 9.0}, {'ohjelmistokoodi': 37.0}, {'bittimaskaus': 4.0}]",166
+,,,,25,4921.0,240.0,1366,3,3,"[{'visualisointi': 16.0}, {'pelimoottori': 10.0}, {'arkkitehtuuri': 2.0}, {'peliteknologia': 1.0}, {'virtuaalitodellisuus': 2.0}]",31
+14.0,14.0,,3.0,28,5050.0,240.0,1358,3,1,"[{'pilveistäminen': 3.0}, {'digitalisaatio': 5.0}, {'pilvipalvelu': 34.0}]",42
+24.0,17.0,7.0,1.0,31,6168.0,250.0,1520,4,26,"[{'ohjelmakirjasto': 44.0}, {'moduulit': 4.0}, {'verkko-ohjelmointi': 1.0}, {'javascript': 16.0}, {'käytettävyys': 3.0}, {'asiakaspalvelu': 57.0}, {'itsepalvelu': 40.0}]",165
+21.0,18.0,3.0,1.0,27,4615.0,242.0,1573,3,20,"[{'virtuaalitodellisuus': 14.0}, {'koulutus': 44.0}, {'oppiminen': 5.0}, {'360-videot': 2.0}]",65
+38.0,29.0,9.0,3.0,43,5329.0,240.0,1688,4,20,"[{'käytettävyys': 36.0}, {'käytettävyyskysely': 9.0}, {'käyttäjäkeskeinen suunnittelu': 1.0}, {'käyttäjäkokemus': 7.0}]",53
+17.0,12.0,5.0,,26,3389.0,240.0,2498,3,21,"[{'valaisimet': 5.0}, {'standardit': 4.0}, {'tuotantotestaus': 1.0}, {'laivateollisuus': 1.0}]",11
+9.0,5.0,4.0,1.0,26,2613.0,262.0,1392,5,2,"[{'keilanmuodostus': 22.0}, {'vaiheohjattu antenniryhmä': 4.0}, {'antenniryhmä': 33.0}]",59
+21.0,13.0,8.0,,62,10951.0,244.0,1372,5,4,"[{'pietsosähkö ': 44.0}, {'elektroniikka': 6.0}, {'anturi': 115.0}, {'paikannus': 7.0}, {'värähtelyanturi': 1.0}]",173
+,,,,26,4636.0,243.0,1742,5,2,"[{'iota': 91.0}, {'tangle': 73.0}, {'anturi data': 14.0}, {'iot': 99.0}, {'lohkoketjut': 1.0}]",278
+26.0,22.0,4.0,2.0,55,7321.0,240.0,1386,2,18,"[{'pelillistäminen': 10.0}, {'verkkokauppa': 8.0}, {'käyttäjäkokemus': 9.0}]",27
+42.0,24.0,18.0,2.0,52,12052.0,240.0,1904,3,13,"[{'tietoliikenneverkko': 2.0}, {'seutuverkko': 24.0}, {'kuituoptiikka': 1.0}, {'valokuitu': 143.0}]",170
+,,,,21,3554.0,240.0,2120,2,1,"[{'varavirtajärjestelmät': 1.0}, {'suunnittelu': 26.0}, {'tasasuuntaajajärjestelmä': 8.0}, {'akusto': 68.0}, {'mitoitus': 7.0}, {'suunnittelutyökalu': 8.0}]",118
+12.0,10.0,2.0,,34,6406.0,240.0,1505,4,20,"[{'elastic stack ': 37.0}, {'elasticsearch ': 57.0}, {'grafana ': 63.0}, {'nextgen ': 35.0}, {'valvonta ': 26.0}, {'loki-tiedostot': 1.0}]",219
+14.0,14.0,,,29,4736.0,243.0,1658,3,19,"[{'esineiden internet': 3.0}, {'puhekäyttöliittymä': 25.0}, {'pilvipalvelut': 1.0}]",29
+17.0,12.0,5.0,1.0,38,7862.0,269.0,287,2,20,"[{'ilmoittautumisautomaatti': 16.0}, {'itseilmoittautuminen': 6.0}, {'palvelumuotoilu': 38.0}, {'käytettävyys': 12.0}, {'käyttöliittymä': 41.0}, {'asiakastyytyväisyys': 5.0}]",118
+,,,,37,4969.0,241.0,1376,4,5,"[{'javascript': 2.0}, {'react native ': 15.0}, {'grafiikkakirjasto': 33.0}]",50
+,,,,35,5696.0,266.0,2107,4,2,"[{'grpc ': 20.0}, {'mifare': 34.0}, {'pc/sc': 6.0}, {'apdu': 49.0}, {'nodejs': 11.0}]",120
+,,,,30,4261.0,244.0,1206,4,5,"[{'resurssisuunnittelu ': 12.0}, {'kuormamäärä ': 10.0}, {'käyttöliittymä': 27.0}, {'palvelin': 15.0}, {'tietokanta ': 18.0}, {'verkkosovellus ': 20.0}, {'henkilö resursointi': 1.0}]",103
+,,,,28,3998.0,240.0,1542,1,20,"[{'usability': 3.0}, {'survey research': 1.0}, {'information system': 3.0}, {'user experience': 1.0}]",8
+32.0,31.0,1.0,7.0,33,5781.0,250.0,1757,4,5,"[{'automaatiotestaus': 6.0}, {'ohjelmistotestaus': 6.0}, {'rajapinta': 13.0}, {'python': 16.0}, {'django': 27.0}]",68
+18.0,16.0,2.0,3.0,28,6041.0,246.0,2309,2,20,"[{'asiakasrekisteri': 40.0}, {'projektinhallinta': 14.0}, {'www-ohjelmointi': 1.0}, {'projektipäällikkö': 6.0}, {'projektijohtaminen': 1.0}]",62
+31.0,5.0,31.0,,73,14971.0,240.0,1752,5,21,"[{'sound': 25.0}, {'sound pressure': 7.0}, {'sound pressure level ': 5.0}, {'sound level meter ': 6.0}, {'drone ': 11.0}, {'noise measuring': 5.0}]",59
+22.0,19.0,3.0,,47,7947.0,251.0,1334,5,2,"[{'etävalvonta': 62.0}, {'prototyyppi': 31.0}, {'rest': 48.0}, {'api': 102.0}, {'esp32 ': 28.0}, {'iot': 15.0}]",286
+17.0,12.0,5.0,1.0,38,7862.0,245.0,1377,2,20,"[{'ilmoittautumisautomaatti': 16.0}, {'itseilmoittautuminen': 6.0}, {'palvelumuotoilu': 38.0}, {'käytettävyys': 12.0}, {'käyttöliittymä': 41.0}, {'asiakastyytyväisyys': 5.0}]",118
+51.0,3.0,48.0,,56,8952.0,260.0,1613,4,24,"[{'tietoturva ': 124.0}, {'kyberuhka ': 1.0}, {'uhkatieto ': 10.0}, {'tietoturvavalvonta': 5.0}]",140
+20.0,19.0,1.0,4.0,39,4964.0,240.0,790,4,4,"[{'ros': 155.0}, {'reunalaskenta ': 17.0}, {'etl': 14.0}, {'python': 2.0}, {'bash ': 3.0}, {'lidar': 9.0}]",200
+,,,,36,9293.0,245.0,1359,4,5,"[{'elektroniikkateollisuus': 1.0}, {'kehitysalustat': 1.0}, {'järjestelmäsuunnittelu': 1.0}, {'ohjelmistokehitys': 1.0}, {'sovelluskehykset': 1.0}]",5
+,,,,29,4805.0,241.0,2085,3,5,"[{'jatkuva integraatio': 11.0}, {'jenkins ': 78.0}, {'webkehitys ': 1.0}, {'mobiilisovelluskehitys': 1.0}]",91
+,,,,22,3754.0,255.0,1637,3,26,"[{'käyttöönotto ': 27.0}, {'koulutus': 31.0}, {'ohjelmisto': 84.0}, {'kirjausalusta': 11.0}]",153
+27.0,24.0,3.0,,30,5674.0,242.0,1358,4,1,"[{'zero trust': 68.0}, {'etäkäyttö': 4.0}, {'etätyö': 25.0}, {'tietoturva': 16.0}, {'tietoliikenne': 1.0}]",114
+11.0,10.0,1.0,,49,11200.0,240.0,1760,5,1,"[{'sd-wan': 69.0}, {'ohjelmisto-ohjattu laajaverkko': 3.0}, {'laajaverkko': 17.0}, {'yritysverkko': 12.0}]",101
+,,,,45,7416.0,240.0,1240,5,5,"[{'laadunvalvonta': 8.0}, {'telekeskeinen optiikka': 1.0}, {'viivakamera': 25.0}]",34
+13.0,2.0,11.0,,55,8866.0,242.0,1928,4,13,"[{'cybersecurity': 4.0}, {'simulation': 3.0}, {'malware': 2.0}, {'mimikatz': 9.0}, {'arduino': 8.0}]",26
+11.0,3.0,8.0,,26,5192.0,240.0,1569,3,23,"[{'vaatimusmäärittely': 7.0}, {'määrittelyprosessi': 60.0}, {'ketterät menetelmät': 5.0}, {'vesiputous malli': 23.0}]",95
+28.0,26.0,2.0,1.0,42,7155.0,241.0,1720,5,1,"[{'kyber hyökkäys ': 2.0}, {'tietoturva': 66.0}, {'haittaohjelma': 37.0}, {'virustorjuntaohjelma': 11.0}, {'yara': 148.0}, {'forensiikka': 1.0}]",265
+42.0,42.0,,30.0,35,5896.0,241.0,1752,3,1,"[{'mainosten esto': 11.0}, {'raspberry pi': 28.0}, {'linux': 11.0}, {'dns': 10.0}]",60
+17.0,15.0,2.0,2.0,32,4027.0,240.0,2120,2,22,"[{'hyvinvointiteknologia': 15.0}, {'sykemittarit ': 4.0}, {'sensorit': 9.0}]",28
+30.0,28.0,2.0,,31,6626.0,249.0,1372,3,20,"[{'kenttäväylä': 4.0}, {'modbus': 122.0}, {'automaatio': 5.0}]",131
+20.0,11.0,9.0,,31,5412.0,240.0,1563,3,5,"[{'mobiilipeli': 24.0}, {'pelikehitys': 1.0}, {'buildbox': 107.0}]",132
+26.0,25.0,1.0,,52,,244.0,1718,5,2,[],0
+,7.0,0.0,7.0,45,10328.0,240.0,850,5,3,"[{'dialogi ': 170.0}, {'koulutuspeli': 49.0}, {'opetuspeli ': 7.0}, {'pelillistäminen': 2.0}, {'pisteytys': 10.0}]",238
+,22.0,21.0,1.0,29,5793.0,240.0,1539,3,20,"[{'konenäkö': 44.0}, {'tekoäly': 6.0}, {'psykiatrinen': 4.0}, {'sovellettavuus': 6.0}, {'soveltuvuus': 2.0}]",62
+,,,,27,4864.0,243.0,1664,3,13,"[{'sisäilma': 32.0}, {'työhyvinvointi': 1.0}, {'työtehokkuus': 1.0}, {'mittalaitteet': 1.0}]",35
+,,,,34,7183.0,251.0,1339,4,20,"[{'autentikointi': 15.0}, {'tietosuoja-asetus': 8.0}, {'henkilötieto': 32.0}, {'big data ': 18.0}, {'ohjelmistorajapinta': 2.0}]",75
+,,,,34,5455.0,242.0,1392,4,2,"[{'react': 77.0}, {'web components': 12.0}, {'javascript': 49.0}]",138
+4.0,4.0,,,50,9543.0,240.0,1365,4,1,"[{'javascript': 3.0}, {'react': 4.0}, {'java ': 13.0}, {'agile': 5.0}, {'ohjelmistotuotanto': 17.0}, {'projektinhallinta': 5.0}]",47
+39.0,23.0,16.0,3.0,35,5356.0,245.0,1481,5,22,"[{'integraatio': 53.0}, {'rest': 17.0}, {'ohjelmointirajapinta': 5.0}, {'caché objectscript': 9.0}, {'intersystems': 30.0}, {'tiedonsiirto': 9.0}]",123
+15.0,15.0,,3.0,33,5915.0,242.0,1364,4,1,"[{'verkkosegmentointi ': 11.0}, {'aruba clearpass': 11.0}, {'vlan': 6.0}, {'network access control ': 12.0}, {'klusteri': 20.0}]",60
+20.0,19.0,1.0,,24,3886.0,251.0,1555,3,20,"[{'python': 65.0}, {'data': 66.0}, {'muuntaja': 19.0}, {'json': 52.0}, {'health tech lab': 9.0}, {'tiedosto': 167.0}, {'muoto': 17.0}]",395
+31.0,26.0,5.0,,31,5590.0,241.0,1364,3,20,"[{'elektrokardiografia (ekg)': 2.0}, {'ekg-käyrä': 60.0}, {'elektrodi': 30.0}, {'sydän': 28.0}, {'sydämen sähköinen toiminta': 5.0}]",125
+27.0,26.0,1.0,7.0,54,12999.0,244.0,1362,5,20,"[{'identiteetinhallinta': 26.0}, {'pääsynhallinta': 24.0}, {'todennus ': 37.0}, {'valtuutus': 19.0}, {'sähköinen i dentiteetti': 9.0}]",115
+16.0,16.0,,1.0,19,2335.0,240.0,1575,3,4,"[{'github': 28.0}, {'ci-putki ': 2.0}, {'proof of concept ': 11.0}, {'actions': 22.0}]",63
+16.0,10.0,6.0,,46,9394.0,241.0,1141,5,5,"[{'käytettävyystestaus': 41.0}, {'helppokäyttöisyys': 1.0}, {'mobiilisovellus': 2.0}, {'mobiilipelit ': 1.0}, {'opetuspeli': 2.0}, {'maahanmuuttajat': 4.0}]",51
+18.0,14.0,4.0,,39,4329.0,241.0,1970,3,4,"[{'dsp': 13.0}, {'fpga': 49.0}, {'matlab': 46.0}, {'simulink': 24.0}, {'vhdl': 2.0}]",134
+,,,,34,6234.0,245.0,1574,4,23,"[{'riskienhallinta': 80.0}, {'vika- ja vaikutus analyysi': 28.0}, {'tuotekehitys ': 9.0}, {'luotettavuussuunnittelu ': 2.0}, {'vikapuuanalyysi': 14.0}]",133
+,,,,30,5331.0,246.0,1375,4,20,"[{'web-ohjelmointirajapinnan kehittäminen': 2.0}, {'suunnittelutiede': 1.0}, {'verkkosovellukset': 6.0}, {'mikropalveluarkkitehtuuri': 22.0}]",31
+57.0,56.0,1.0,3.0,60,9600.0,244.0,1576,2,18,"[{'fotogrammetria': 64.0}, {'3d-malli': 82.0}, {'drone': 71.0}, {'pistepilvi': 25.0}]",242
+,,,,24,3653.0,246.5,1733,4,8,"[{'tietokannat': 1.0}, {'käyttäjäkeskeisyys ': 1.0}, {'ohjelmistokehitys': 1.0}, {'microsoft office access': 5.0}]",8
+,,,,28,4602.0,242.0,1986,4,2,"[{'testiautomaatio': 37.0}, {'tietokoneohjelmat': 1.0}, {'rajapinta': 51.0}, {'api': 133.0}, {'soapui': 54.0}, {'tortoisesvn ': 22.0}, {'jenkins': 47.0}]",345
+14.0,14.0,,,42,5993.0,243.0,1969,3,4,"[{'esp32': 27.0}, {'c++': 5.0}, {'arduino ide': 4.0}, {'iot': 26.0}]",62
+31.0,31.0,,5.0,39,5756.0,259.0,79,3,3,"[{'virtuaalitodellisuus': 20.0}, {'htc vive': 8.0}, {'turvakoulutus ': 5.0}, {'unity': 50.0}]",83
+65.0,65.0,,5.0,50,9416.0,240.0,1334,3,20,"[{'lääketieteellinen tekniikka': 1.0}, {'proteesit': 33.0}, {'ohjelmointi': 19.0}, {'terveysteknologia': 1.0}]",54
+8.0,7.0,1.0,,20,2609.0,240.0,2116,2,5,"[{'iot': 11.0}, {'suunnittelu': 7.0}, {'älytalot': 1.0}, {'älytekniikka': 1.0}, {'järjestelmänsuunnittelu': 2.0}]",22
+,,,,43,9627.0,245.0,1724,3,1,"[{'pilvipalvelu': 148.0}, {'tietoturva': 38.0}, {'microsoft aure': 1.0}, {'amazon web services': 22.0}, {'google cloud platform': 17.0}]",226
+11.0,11.0,,,37,5202.0,242.0,1377,3,1,"[{'verkkokyselyalusta': 10.0}, {'kaavio': 105.0}, {'kuvaaja': 23.0}]",138
+29.0,28.0,1.0,3.0,38,6003.0,240.0,1740,3,1,"[{'virtuaalitodellisuus': 17.0}, {'ohjelmointi': 13.0}, {'unity': 28.0}, {'c#': 9.0}, {'javascript': 9.0}]",76
+30.0,28.0,2.0,6.0,29,6712.0,240.0,1747,3,1,"[{'pilvipelaaminen': 20.0}, {'pilvipalvelut': 1.0}, {'pilvipohjaiset suoratoistopalvelut': 1.0}, {'internetoperaattori': 14.0}]",36
+17.0,15.0,2.0,1.0,32,5077.0,246.0,1372,4,2,"[{'n-abc-x-analyysi': 12.0}, {'web-sovellus': 3.0}, {'varastonhallinta': 4.0}]",19
+55.0,12.0,43.0,,55,8233.0,241.0,1746,4,13,"[{'identiteettihallinta': 1.0}, {'tietotekniikka': 1.0}, {'käyttäjienhallinta': 9.0}, {'pääsynhallinta': 18.0}]",29
+37.0,35.0,2.0,12.0,97,23635.0,240.0,1207,4,28,"[{'konesali ': 8.0}, {'reittitaulu': 11.0}, {'reunareitin ': 1.0}, {'runkoverkko': 3.0}]",23
+28.0,19.0,9.0,2.0,40,9510.0,249.0,1450,4,2,"[{'sovelluskehitys ': 9.0}, {'sulautettu ': 14.0}, {'järjestelmä': 114.0}, {'kehitystyökalu': 8.0}, {'ohjelmointi': 14.0}]",159
+,,,,45,5379.0,241.0,1544,4,4,"[{'led-moduuli': 119.0}, {'tuotannontestaus': 8.0}, {'elektroniikkasuunnittelu': 4.0}, {'piirilevy': 12.0}, {'mikrokontrolleri': 11.0}]",154
+29.0,28.0,1.0,3.0,38,6003.0,240.0,1377,3,1,"[{'virtuaalitodellisuus': 17.0}, {'ohjelmointi': 13.0}, {'unity': 28.0}, {'c#': 9.0}, {'javascript': 9.0}]",76
+17.0,15.0,2.0,1.0,32,5077.0,243.0,1735,4,2,"[{'n-abc-x-analyysi': 12.0}, {'web-sovellus': 3.0}, {'varastonhallinta': 4.0}]",19
+25.0,9.0,16.0,,29,6527.0,240.0,1353,4,5,"[{'modulaarisuus': 11.0}, {'dokumentointi': 9.0}, {'mobiilisovellukset': 1.0}]",21
+,,,,16,2515.0,243.0,2269,3,8,"[{'tietoverkot': 1.0}, {'internetliittymä': 2.0}, {'mobiili-internet': 1.0}]",4
+28.0,27.0,1.0,,30,3932.0,241.0,1738,2,3,[],0
+40.0,36.0,4.0,1.0,37,6664.0,240.0,1714,4,2,"[{'amr-verkko': 10.0}, {'vedenmittaus': 13.0}, {'kustannustehokkuus': 1.0}, {'vesimittarilukemat': 1.0}, {'kulutustiedot': 1.0}]",26
+25.0,4.0,21.0,,37,6673.0,242.0,1465,4,20,"[{'eksoskeleton': 57.0}, {'käytettävyys': 6.0}, {'vaikuttavuus': 5.0}]",68
+38.0,37.0,1.0,3.0,31,4080.0,253.0,1605,3,20,"[{'kehittäjäportaali': 82.0}, {'spotify backstage': 30.0}, {'azure': 43.0}, {'github': 78.0}, {'ohjelmistokehitys': 5.0}]",238
+20.0,12.0,8.0,,52,9460.0,241.0,1573,4,11,"[{'cisco esa': 26.0}, {'sähköposti': 298.0}, {'tietoturva': 20.0}]",344
+14.0,9.0,5.0,4.0,18,3277.0,240.0,1757,2,5,"[{'djangopython': 0.0}, {'tietoturva': 21.0}, {'api': 60.0}]",81
+33.0,33.0,,2.0,42,5869.0,240.0,1373,4,5,"[{'anonymisointi ': 5.0}, {'node': 31.0}, {'express': 35.0}, {'postgresql': 15.0}, {'sequelize': 58.0}, {'typescript ': 41.0}, {'rest': 34.0}]",219
+23.0,20.0,3.0,1.0,52,8620.0,241.0,1368,4,5,"[{'python': 39.0}, {'graafinen käyttöliittymä': 1.0}, {'json': 60.0}, {'radiotekniikka': 1.0}, {'testiautomaatio': 22.0}]",123
